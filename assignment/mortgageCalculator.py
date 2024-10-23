@@ -7,4 +7,5 @@ duration_in_months = duration*12
 
 payment = principal * ((monthly_rate*(1+monthly_rate)**duration_in_months)/((1+monthly_rate)**duration_in_months-1))
 
-print("Your monthly payment is: %.2f" % payment)
+print("Your monthly payment is : $%.2f" % payment)
+
