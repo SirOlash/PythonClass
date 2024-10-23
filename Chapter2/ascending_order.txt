@@ -2,13 +2,8 @@ integer = int(input("Enter a three digit integer: "))
 
 lastNumber = integer%10
 firstNumber = integer//100
-firstTwo = integer//10
-secondNumber = firstTwo%10
-
-sum = firstNumber+secondNumber+lastNumber
-average = sum/3
-product = firstNumber*secondNumber*lastNumber
-
+firstTwo=integer//10
+secondNumber=firstTwo%10
 
 if firstNumber > secondNumber and firstNumber > lastNumber:
 	largest=firstNumber
@@ -27,9 +22,13 @@ if secondNumber < firstNumber and secondNumber < lastNumber:
 if lastNumber < firstNumber and lastNumber < secondNumber:
 	smallest=lastNumber
 
-print("The sum is ",sum)
-print("The average is ",average)
-print("The product is ",product) 
-print("The smallest is ",smallest)
-print("The largest is ",largest)
+if firstNumber != largest and firstNumber != smallest:
+	inBetween = firstNumber
+if secondNumber != largest and secondNumber != smallest:
+	inBetween = secondNumber
+if lastNumber != largest and lastNumber != smallest:
+	inBetween = lastNumber
 
+print(largest)
+print(inBetween)
+print(smallest)
