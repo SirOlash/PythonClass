@@ -7,3 +7,4 @@ third_number = (integer // 100) %10
 second_number = (integer // 1000) %10
 
 print(fifth_number, fourth_number, third_number, second_number, first_number)
+

@@ -1,4 +1,4 @@
-integer=int(input("Enter a three digit integer: "))
+integer=float(input("Enter a three digit integer: "))
 
 lastNumber=integer%10
 firstNumber=integer//100
