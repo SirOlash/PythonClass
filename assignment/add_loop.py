@@ -1,6 +1,5 @@
-i=0
-sum=0
-user_reply="yes"
+sum = 0
+user_reply = "yes"
 
 while(user_reply=="yes"):
    first_number = int(input("Enter first number: "))

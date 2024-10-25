@@ -1,4 +1,4 @@
-integer =int(input("Enter a five digit integer: "))
+integer = int(input("Enter a five digit integer: "))
 
 fifth_number = integer % 10
 first_number = integer//10000
