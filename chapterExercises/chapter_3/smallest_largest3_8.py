@@ -11,4 +11,4 @@ for count in range(4):
 		smallest = number
 	if largest < number:
 		largest = number 
-print(f"The sum is {sum}\n,The average is {average:.2f},\nThe product is {product},\nThe smallest number is {smallest},\n The largest number is {largest}.") 
+print(f"The sum is {sum},\nThe average is {average:.2f},\nThe product is {product},\nThe smallest number is {smallest},\n The largest number is {largest}.") 

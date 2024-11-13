@@ -9,5 +9,5 @@ while number != -1:
 		fail +=1
 	elif number == 1:
 		passes += 1
-	else: print ("Enter either 1 or 2")
+	else: print ("please enter either 1 or 2")
 print(f"There are {passes} passes and {fail} failures")
