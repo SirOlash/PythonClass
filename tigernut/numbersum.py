@@ -7,23 +7,30 @@ class NumberSum(unittest.TestCase):
 		sum.get_sum(number)
 
 	def test_that_get_sum_function_return_correct_result(self):
-		number = [1,2,3,4]
+		number = [1,5,3,7]
 		actual = sum.get_sum(number)
-		expected = 6
+		expected = 0
 		self.assertEqual(actual,expected)
 	
 	def test_that_get_sum_function_return_correct_result_with_negative_numbers (self):
 		number = [-1,-2,-3,-4]
 		actual = sum.get_sum(number)
-		expected = 6
+		expected = -6
 		self.assertEqual(actual,expected)
 
 
-	def test_that_vowel_return_correct_result(self):
+	def test_that_vowel_function_return_correct_result(self):
 		character = "python is sweet"
 		actual = sum.get_vowel(character)
 		expected = 4
 		self.assertEqual(actual,expected)
+
+	def test_that_vowel_function_return_correct_result_with_consonant(self):
+		character = "pythn ns swt"
+		actual = sum.get_vowel(character)
+		expected = 0
+		self.assertEqual(actual,expected)
+
 	
 	def test_that_anagram_return_correct_result(self):
 		string_one = "listen"
@@ -52,6 +59,11 @@ class NumberSum(unittest.TestCase):
 		actual = sum.get_reversed("hello")
 		expected = "olleh"
 		self.assertEqual(actual,expected)
+
+	"""def test_that_reversed_return_correct_result_with_space(self):
+		actual = sum.get_reversed("")
+		expected = "olleh"
+		self.assertEqual(actual,expected)"""
 
 	def test_that_capitalized_return_correct_result(self):
 		list = ["apple","banana","cherry"]
