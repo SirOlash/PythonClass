@@ -58,5 +58,3 @@ def get_squareOfInteger(integer):
 
 
 
-}
-
