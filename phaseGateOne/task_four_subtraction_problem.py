@@ -1,7 +1,8 @@
 """generate two random numbers 
 	create a loop that runs 10 times
 	check if random_number_one > random_number_two
-	if it is,  
+	if it is, prompt user to calculate 10 questions 
+	print the passed / failed   
 
 import random
 import time 
