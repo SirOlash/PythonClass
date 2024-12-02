@@ -1,3 +1,8 @@
+"""generate two random numbers 
+	create a loop that runs 10 times
+	check if random_number_one > random_number_two
+	if it is,  
+
 import random
 import time 
 
