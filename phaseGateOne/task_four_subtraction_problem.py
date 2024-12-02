@@ -2,7 +2,7 @@
 	create a loop that runs 10 times
 	check if random_number_one > random_number_two
 	if it is, prompt user to calculate 10 questions 
-	print the passed / failed   
+	print the passed / failed  """ 
 
 import random
 import time 
