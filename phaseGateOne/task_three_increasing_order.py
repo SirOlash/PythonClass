@@ -3,7 +3,7 @@ save as first_number,second_number,third_number
 use if statements to check for the greater number in first_number,second_number,third_number
 display the gretest followed by the second greatest then the third greatest"""
 
-first = 0
+"""first = 0
 second = 0
 third = 0
 
@@ -49,5 +49,22 @@ if third_number < second_number and third_number < first_number :
 if second_number < first_number and second_number < third_number :
 	third = second_number
 
-print(f"{first}{second}{third}")
+print(f"{first}{second}{third}")"""
+
+
+list=[]
+
+first_number = int(input("Enter first number: "))
+list.append(first_number)
+
+second_number = int(input("Enter second number: "))
+list.append(second_number)
+
+third_number = int(input("Enter third number: "))
+list.append(third_number)
+list.sort(reverse = True)
+
+
+print (list)
+
 

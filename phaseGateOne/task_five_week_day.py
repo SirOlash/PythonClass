@@ -16,7 +16,7 @@ display the day and the future day"""
 week_day = ["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"]
 
 today_day = int(input("Enter today's day: "))
-if 
+
 days_elapsed = int(input("Enter the number of days elapsed since today: "))
 
 total_days = today_day + days_elapsed 
