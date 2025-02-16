@@ -32,3 +32,4 @@ def get_capitalized(list):
 			
 list =["apple","banana","cherry"]
 print(get_capitalized(list))
+

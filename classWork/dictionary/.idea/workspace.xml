@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="daa3b5ef-30e1-4727-9ee6-6ce7156ec5c6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../assignment/chibuzorassignment/CompoundInterestCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/set.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../encrypt_text.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../encrypt_try.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modulus.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../alfrednumbertriangle.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../area.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../asterisks.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../classTask.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../classTask2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../classTask3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../evenodd.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../for_count.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../multiplication_table.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../number_pattern.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../number_pyramid.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../number_triangle.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../passed_failed.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../primefunction.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pycalculation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../questions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student_grade.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taskTwo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../x = 2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../x = 2.python" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Unit Test" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2rcg78xIxg8KZz1ENPluczwoxRI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python tests.Python tests for all_tests.MyTestCase.test_that_grading_function_returns_correct_value.executor&quot;: &quot;Run&quot;,
+    &quot;Python.class_task.executor&quot;: &quot;Run&quot;,
+    &quot;Python.countries.executor&quot;: &quot;Run&quot;,
+    &quot;Python.country.executor&quot;: &quot;Run&quot;,
+    &quot;Python.grading_program.executor&quot;: &quot;Run&quot;,
+    &quot;Python.practice.executor&quot;: &quot;Run&quot;,
+    &quot;Python.student.executor&quot;: &quot;Run&quot;,
+    &quot;Python.student_score.executor&quot;: &quot;Run&quot;,
+    &quot;Python.try.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tuple.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/DELL/Desktop/PythonClass&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Python.student">
+    <configuration name="student" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="dictionary" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/student.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for all_tests.MyTestCase.test_that_grading_function_returns_correct_value" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="dictionary" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;all_tests.MyTestCase.test_that_grading_function_returns_correct_value&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests for all_tests.MyTestCase.test_that_grading_function_returns_correct_value" />
+        <item itemvalue="Python.student" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-PY-243.22562.220" />
+        <option value="bundled-python-sdk-0fc6c617c4bd-9a18a617cbe4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.22562.220" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="daa3b5ef-30e1-4727-9ee6-6ce7156ec5c6" name="Changes" comment="" />
+      <created>1736863606693</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1736863606693</updated>
+      <workItem from="1736863607815" duration="10349000" />
+      <workItem from="1737031960647" duration="20279000" />
+      <workItem from="1737626043555" duration="170000" />
+      <workItem from="1737641747737" duration="725000" />
+      <workItem from="1737709285048" duration="44000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/dictionary$student_score.coverage" NAME="student_score Coverage Results" MODIFIED="1736873932269" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/dictionary$country.coverage" NAME="country Coverage Results" MODIFIED="1737038319219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/dictionary$student.coverage" NAME="student Coverage Results" MODIFIED="1737033144896" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/dictionary$.coverage" NAME=" Coverage Results" MODIFIED="1737332490111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/dictionary$practice.coverage" NAME="practice Coverage Results" MODIFIED="1737337604953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/dictionary$try.coverage" NAME="try Coverage Results" MODIFIED="1737340356628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/dictionary$countries.coverage" NAME="countries Coverage Results" MODIFIED="1737033154260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/dictionary$tuple.coverage" NAME="tuple Coverage Results" MODIFIED="1737124264782" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/dictionary$class_task.coverage" NAME="class_task Coverage Results" MODIFIED="1737038705681" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/dictionary$grading_program.coverage" NAME="grading_program Coverage Results" MODIFIED="1737334694964" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

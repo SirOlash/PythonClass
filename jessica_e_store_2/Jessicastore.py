@@ -15,6 +15,7 @@ def remove_from_cart(cart:list)-> None:
     else:
         print(product +" is not on your cart.\n")
 
+
 def add_to_cart(cart:list, products:list) -> None:
     product = input("Enter the product you want to add: ")    
     index = 0
@@ -61,8 +62,7 @@ def checkout(cart) -> None:
     total = calculate_total(cart)
     print(f"Thank you for shopping with us! Your total is ${total}\n")
     cart.clear()
-    
-    
+       
     
 products = [["Laptop", 1000], ["Phone", 500], ["Headphones", 100]]
 cart = []
@@ -77,7 +77,7 @@ main_menu = """Welcome to Jessica's E-Store!
 
 Enter menu number >>> """
 
-while(True):
+while(shopping):
     try:
         value = int(input(main_menu))  
         match value:
@@ -91,8 +91,8 @@ while(True):
                 view_cart(cart)
             case 5:
                 checkout(cart)
-            case 6: break
-              
+            case 6:
+                shopping = not shopping
     except ValueError:
         print("Enter a valid menu number\n")
 

@@ -7,7 +7,7 @@ def switchlist(number_list,number):
 
 def odd_even(number):
 	result = []
-	for numb in number:
+	for numb in number:	
 		if numb % 2 == 0:
 			result.append(True)
 		if numb % 2 != 0:

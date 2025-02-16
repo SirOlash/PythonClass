@@ -19,14 +19,14 @@
 	return prime"""
 
 def total(number):
-	return sum([numb for numb in number if numb % 2 == 0 ])	
-	number = [2,4,5,6,7,8]	
+	"""return sum([numb for numb in number if numb % 2 == 0 ])	
+	number = [2,4,5,6,7,8]	"""
 
-	"""tot = 0
+	tot = 0
 	for numb in number:
 		tot+= numb
-	return tot ""
-print (total(number))
+	return tot 
+#print (total(number))
 
 def cube(number):
 	return[numb**3 for numb in number]
@@ -37,9 +37,8 @@ def cube(number):
 
 
 
-
 def list():
-	return(cube([x for x in range (1,6)]))
+	return(total([x for x in range (1,6)]))
 
 	
 	"""numb = []

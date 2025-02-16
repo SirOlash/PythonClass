@@ -10,15 +10,12 @@ def is_prime(number):
 			return true;
 		return false;
 
-"""def is_difference(numberOne, numberTwo):
-	if numberOne > numberTwo:
-		difference = numberOne - numberTwo
-	return difference
-	else: difference = numberTwo - numberOne
-	return difference"""
+def is_difference(numberOne, numberTwo):
+	difference = numberOne - numberTwo
+	return abs(difference)
 
 
-def is_numberdivision(numberOne, numberTwo):
+"""def is_numberdivision(numberOne, numberTwo):
 	product = numberOne / numberTwo	
 
 
@@ -52,7 +49,7 @@ def get_factorialOfInteger(integer):
         	
 def get_squareOfInteger(integer):
 	square = integer * integer
-		return square
+		return square """
 
 
 
