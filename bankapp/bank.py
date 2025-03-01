@@ -7,11 +7,11 @@ class Bank:
         self.__account_number = 10001
 
     def create_account(self,first_name,last_name,pin):
-        if not first_name or first_name.strip() == "":
+        if not first_name or first_name.isspace():
             raise ValueError("First name cannot be empty")
-        if not last_name or last_name.strip() == "":
+        if not last_name or last_name.isspace():
             raise ValueError("Last name cannot be empty")
-        if not pin or pin.strip() == "":
+        if not pin or pin.isspace():
             raise ValueError("Pin cannot be empty")
         self.accounts.append(Account(first_name,last_name,pin,self.__account_number))
         self.__account_number += 1
@@ -47,9 +47,9 @@ class Bank:
         account1.decrease_balance(amount,pin)
         account2.increase_balance(amount)
 
-    def updatepin(self, accountnumber, oldpin,newpin):
-        account = self.find_account_by(accountnumber)
-        account.update_pin(oldpin,newpin)
+    def update_pin(self, account_number, old_pin, new_pin):
+        account = self.find_account_by(account_number)
+        account.update_pin(old_pin, new_pin)
 
 
 

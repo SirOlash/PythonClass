@@ -5,49 +5,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="01b0afac-6ee1-4bad-9ecf-6e2bc8a67b77" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Tests/bankapptests/test_account.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tests/test_array_methods.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tests/test_my_television.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assignment/chibuzorassignment/CompoundInterestCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bankapp/account.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classWork/datastructures/array.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classWork/dictionary/set.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classWork/encrypt_try.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classWork/encrypttext.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classWork/human.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classWork/myarray.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classWork/native.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classWork/television/__init__..py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assignment/functions/kata_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/assignment/functions/kata_functions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classWork/Modulus.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classWork/New folder/sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/classWork/New folder/sum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classWork/New folder/tot.py" beforeDir="false" afterPath="$PROJECT_DIR$/classWork/New folder/tot.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classWork/alfrednumbertriangle.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classWork/area.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classWork/asterisks.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classWork/classTask.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classWork/classTask2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classWork/classTask3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classWork/dictionary/my_dict.py" beforeDir="false" afterPath="$PROJECT_DIR$/classWork/dictionary/my_dict.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classWork/evenodd.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classWork/for_count.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classWork/multiplication_table.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classWork/number_pattern.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classWork/number_pyramid.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classWork/number_triangle.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classWork/passed_failed.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classWork/primefunction.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classWork/pycalculation.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classWork/questions.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classWork/student_grade.py" beforeDir="false" afterPath="$PROJECT_DIR$/classWork/studentgrade.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classWork/taskTwo.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classWork/test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classWork/x = 2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classWork/x = 2.python" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jessica_e_store_2/Jessicastore.py" beforeDir="false" afterPath="$PROJECT_DIR$/jessica_e_store_2/Jessicastore.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/teseDrivenDeveloplent/divisionsquare.py" beforeDir="false" afterPath="$PROJECT_DIR$/teseDrivenDeveloplent/divisionsquare.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tigernut/magicnumber.py" beforeDir="false" afterPath="$PROJECT_DIR$/tigernut/magicnumber.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tigernut/switch.py" beforeDir="false" afterPath="$PROJECT_DIR$/tigernut/switch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/diaryapptests/test_diaries.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/diaryapptests/test_diary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/dsa/test_queue.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/dsa/test_set.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/dsa/test_stack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/test_morning_task.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/test_tictactoe/test_board.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bankapp/bankmenu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classWork/bcrypt/bcrypt_trials.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classWork/bcrypt/file_saving.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classWork/datastructures/queue.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classWork/datastructures/set.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classWork/datastructures/stack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classWork/deeperlookstrings/trial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classWork/morningtask.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/diaryapp/src/diaries.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/diaryapp/src/diary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/diaryapp/src/diarymenu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sevensegment/seven_segment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tictactoe/src/board.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tictactoe/src/cell.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tictactoe/src/tictactoe.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/PythonClass.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PythonClass.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/test_array_methods.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/dsa/test_array_methods.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bankapp/bank.py" beforeDir="false" afterPath="$PROJECT_DIR$/bankapp/bank.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,153 +58,188 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python tests.Python tests for test_account.MyTestCase.executor": "Run",
-    "Python tests.Python tests for test_account.MyTestCase.test_that_account_balance_can_be_decreased.executor": "Run",
-    "Python tests.Python tests for test_account.MyTestCase.test_that_account_balance_can_be_increased.executor": "Run",
-    "Python tests.Python tests for test_account.MyTestCase.test_that_account_balance_cannot_be_increased_with_negative_amount.executor": "Run",
-    "Python tests.Python tests for test_account.MyTestCase.test_that_account_balance_is_zero_by_default.executor": "Run",
-    "Python tests.Python tests for test_account.MyTestCase.test_that_you_can_update_pin.executor": "Run",
-    "Python tests.Python tests for test_account.MyTestCase.test_that_you_cant_remove_more_than_your_balance.executor": "Run",
-    "Python tests.Python tests for test_array_methods.TestArrayMethods.executor": "Run",
-    "Python tests.Python tests for test_array_methods.TestArrayMethods.test_that_add_function_works.executor": "Run",
-    "Python tests.Python tests for test_array_methods.TestArrayMethods.test_that_contain_function_works_2.executor": "Run",
-    "Python tests.Python tests for test_array_methods.TestArrayMethods.test_that_list_is_empty.executor": "Run",
-    "Python tests.Python tests for test_array_methods.TestArrayMethods.test_that_remove_function_works.executor": "Run",
-    "Python tests.Python tests for test_array_methods.TestArrayMethods.test_that_size_function_works.executor": "Run",
-    "Python tests.Python tests for test_bank.MyTestCase.executor": "Run",
-    "Python tests.Python tests for test_bank.MyTestCase.test_that_if_you_deposit_1000_withdraw_500_balance_is_500.executor": "Run",
-    "Python tests.Python tests for test_bank.MyTestCase.test_that_you_can_create_account.executor": "Run",
-    "Python tests.Python tests for test_bank.MyTestCase.test_that_you_can_deposit_money.executor": "Run",
-    "Python tests.Python tests for test_bank.MyTestCase.test_that_you_can_find_account_by_account_number.executor": "Run",
-    "Python tests.Python tests for test_bank.MyTestCase.test_that_you_can_transfer_from_one_account_to_another_account.executor": "Run",
-    "Python tests.Python tests for test_bank.MyTestCase.test_that_you_can_update_pin.executor": "Run",
-    "Python tests.Python tests for test_early_morning.MyTestCase.test_that_one_adds.executor": "Run",
-    "Python tests.Python tests for test_encrypt_text.TestEncrypt.executor": "Run",
-    "Python tests.Python tests for test_my_television.TestTelevision.executor": "Run",
-    "Python tests.Python tests for test_my_television.TestTelevision.test_that_my_television_can_be_turned_off.executor": "Run",
-    "Python tests.Python tests for test_my_television.TestTelevision.test_that_my_television_can_be_turned_on.executor": "Run",
-    "Python tests.Python tests for test_my_television.TestTelevision.test_that_my_television_can_be_turned_on_and_off.executor": "Run",
-    "Python tests.Python tests for test_my_television.TestTelevision.test_that_my_television_default_is_off.executor": "Run",
-    "Python tests.Python tests for test_my_television.TestTelevision.test_that_value_error_is_thrown_when_you_set_channel_below_0_and_above_100.executor": "Run",
-    "Python tests.Python tests for test_my_television.TestTelevision.test_that_you_can_Unmute_channel.executor": "Run",
-    "Python tests.Python tests for test_my_television.TestTelevision.test_that_you_can_Unmute_volume.executor": "Run",
-    "Python tests.Python tests for test_my_television.TestTelevision.test_that_you_can_decrease_volume.executor": "Run",
-    "Python tests.Python tests for test_my_television.TestTelevision.test_that_you_can_increase_volume.executor": "Run",
-    "Python tests.Python tests for test_my_television.TestTelevision.test_that_you_can_set_channel.executor": "Run",
-    "Python tests.Python tests for test_my_television.TestTelevision.test_that_you_cant_increase_or_decrease_channel_when_tv_is_off.executor": "Run",
-    "Python tests.Python tests for test_my_television.TestTelevision.test_that_you_cant_increase_or_decrease_volume_when_tv_is_off.executor": "Run",
-    "Python tests.Python tests in test_early_morning.py.executor": "Run",
-    "Python tests.Python tests in test_encrypt_text.py.executor": "Run",
-    "Python.earlyMorning.executor": "Run",
-    "Python.encrypt_text.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/DELL/Desktop/PythonClass",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python tests.Python tests for bankapptests.test_diaries.MyTestCase.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for bankapptests.test_diaries.MyTestCase.test_that_you_can_create_diary.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for bankapptests.test_diaries.MyTestCase.test_that_you_can_delete_diary_by_user_name.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for bankapptests.test_diaries.MyTestCase.test_that_you_can_find_diary_by_user_name.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for diaryapptests.test_diaries.MyTestCase.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for diaryapptests.test_diaries.MyTestCase.test_that_you_can_create_diary.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for diaryapptests.test_diaries.MyTestCase.test_that_you_can_delete_diary_by_user_name.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for diaryapptests.test_diary.MyTestCase.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for diaryapptests.test_diary.MyTestCase.test_that_diary_is_locked_by_default.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for diaryapptests.test_diary.MyTestCase.test_that_you_can_create_entry.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for diaryapptests.test_diary.MyTestCase.test_that_you_can_delete_entry.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for diaryapptests.test_diary.MyTestCase.test_that_you_can_lock_diary.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for diaryapptests.test_diary.MyTestCase.test_that_you_can_unlock_diary.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for diaryapptests.test_diary.MyTestCase.test_that_you_can_update_entry.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for diaryapptests.test_diary.MyTestCase.test_that_you_can_update_title.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for dsa.test_queue.TestQueue.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for dsa.test_set.TestMySet.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for dsa.test_set.TestMySet.test_that_clear_function_works.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for dsa.test_stack.TestStack.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_array_methods.TestArrayMethods.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_array_methods.TestArrayMethods.test_that_add_function_works.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_array_methods.TestArrayMethods.test_that_contain_function_works_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_array_methods.TestArrayMethods.test_that_list_is_empty.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_array_methods.TestArrayMethods.test_that_remove_function_works.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_array_methods.TestArrayMethods.test_that_size_function_works.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_early_morning.MyTestCase.test_that_one_adds.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_encrypt_text.TestEncrypt.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_morning_task.MyTestCase.test_character_count_function.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_morning_task.MyTestCase.test_that_character_occurence_function_works.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_morning_task.MyTestCase.test_that_remove_special_character_function_works.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_morning_task.MyTestCase.test_that_upper_first_works.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_morning_task.MyTestCase.test_that_you_can_add.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_morning_task.MyTestCase.test_that_you_can_swap_character.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_my_television.TestTelevision.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_my_television.TestTelevision.test_that_my_television_can_be_turned_off.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_my_television.TestTelevision.test_that_my_television_can_be_turned_on.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_my_television.TestTelevision.test_that_my_television_can_be_turned_on_and_off.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_my_television.TestTelevision.test_that_my_television_default_is_off.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_my_television.TestTelevision.test_that_value_error_is_thrown_when_you_set_channel_below_0_and_above_100.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_my_television.TestTelevision.test_that_you_can_Unmute_channel.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_my_television.TestTelevision.test_that_you_can_Unmute_volume.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_my_television.TestTelevision.test_that_you_can_decrease_volume.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_my_television.TestTelevision.test_that_you_can_increase_volume.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_my_television.TestTelevision.test_that_you_can_set_channel.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_my_television.TestTelevision.test_that_you_cant_increase_or_decrease_channel_when_tv_is_off.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_my_television.TestTelevision.test_that_you_cant_increase_or_decrease_volume_when_tv_is_off.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_early_morning.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_encrypt_text.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.bankmenu.executor&quot;: &quot;Run&quot;,
+    &quot;Python.bcrypt_trials.executor&quot;: &quot;Run&quot;,
+    &quot;Python.diarymenu.executor&quot;: &quot;Run&quot;,
+    &quot;Python.earlyMorning.executor&quot;: &quot;Run&quot;,
+    &quot;Python.encrypt_text.executor&quot;: &quot;Run&quot;,
+    &quot;Python.morningtask.executor&quot;: &quot;Run&quot;,
+    &quot;Python.seven_segment.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tictactoe.executor&quot;: &quot;Run&quot;,
+    &quot;Python.trial.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/DELL/Desktop/PythonClass&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\DELL\Desktop\PythonClass\Tests\diaryapptests" />
+      <recent name="C:\Users\DELL\Desktop\PythonClass\Tests\dsa" />
       <recent name="C:\Users\DELL\Desktop\PythonClass\classWork\television" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for test_bank.MyTestCase">
-    <configuration name="Python tests for test_account.MyTestCase" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.seven_segment">
+    <configuration name="seven_segment" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonClass" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sevensegment" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sevensegment/seven_segment.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tictactoe" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonClass" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tictactoe/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tictactoe/src/tictactoe.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_morning_task.MyTestCase.test_character_count_function" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PythonClass" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tests/bankapptests" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tests" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_account.MyTestCase&quot;" />
+      <option name="_new_target" value="&quot;test_morning_task.MyTestCase.test_character_count_function&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_bank.MyTestCase" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_morning_task.MyTestCase.test_that_character_occurence_function_works" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PythonClass" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tests/bankapptests" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tests" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_bank.MyTestCase&quot;" />
+      <option name="_new_target" value="&quot;test_morning_task.MyTestCase.test_that_character_occurence_function_works&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_bank.MyTestCase.test_that_if_you_deposit_1000_withdraw_500_balance_is_500" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_morning_task.MyTestCase.test_that_remove_special_character_function_works" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PythonClass" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tests/bankapptests" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tests" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_bank.MyTestCase.test_that_if_you_deposit_1000_withdraw_500_balance_is_500&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests for test_bank.MyTestCase.test_that_you_can_transfer_from_one_account_to_another_account" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="PythonClass" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tests/bankapptests" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_bank.MyTestCase.test_that_you_can_transfer_from_one_account_to_another_account&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests for test_bank.MyTestCase.test_that_you_can_update_pin" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="PythonClass" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tests/bankapptests" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_bank.MyTestCase.test_that_you_can_update_pin&quot;" />
+      <option name="_new_target" value="&quot;test_morning_task.MyTestCase.test_that_remove_special_character_function_works&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Python tests for test_bank.MyTestCase" />
-        <item itemvalue="Python tests.Python tests for test_bank.MyTestCase.test_that_you_can_update_pin" />
-        <item itemvalue="Python tests.Python tests for test_bank.MyTestCase.test_that_you_can_transfer_from_one_account_to_another_account" />
-        <item itemvalue="Python tests.Python tests for test_account.MyTestCase" />
-        <item itemvalue="Python tests.Python tests for test_bank.MyTestCase.test_that_if_you_deposit_1000_withdraw_500_balance_is_500" />
+        <item itemvalue="Python.seven_segment" />
+        <item itemvalue="Python.tictactoe" />
+        <item itemvalue="Python tests.Python tests for test_morning_task.MyTestCase.test_character_count_function" />
+        <item itemvalue="Python tests.Python tests for test_morning_task.MyTestCase.test_that_remove_special_character_function_works" />
+        <item itemvalue="Python tests.Python tests for test_morning_task.MyTestCase.test_that_character_occurence_function_works" />
       </list>
     </recent_temporary>
   </component>
@@ -248,7 +267,17 @@
       <workItem from="1739351537746" duration="8060000" />
       <workItem from="1739434647716" duration="10418000" />
       <workItem from="1739519347539" duration="1961000" />
-      <workItem from="1739616023004" duration="3091000" />
+      <workItem from="1739616023004" duration="3097000" />
+      <workItem from="1739819659288" duration="627000" />
+      <workItem from="1739820323511" duration="38492000" />
+      <workItem from="1739899869875" duration="31444000" />
+      <workItem from="1740038865586" duration="20933000" />
+      <workItem from="1740131630541" duration="19905000" />
+      <workItem from="1740224805117" duration="1321000" />
+      <workItem from="1740641902333" duration="22677000" />
+      <workItem from="1740698228670" duration="31270000" />
+      <workItem from="1740823039230" duration="1738000" />
+      <workItem from="1740845082784" duration="1461000" />
     </task>
     <servers />
   </component>
@@ -257,7 +286,14 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PythonClass$encrypt_text.coverage" NAME="encrypt_text Coverage Results" MODIFIED="1737725158397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/classWork" />
+    <SUITE FILE_PATH="coverage/PythonClass$bcrypt_trials.coverage" NAME="bcrypt_trials Coverage Results" MODIFIED="1740672311081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/classWork/bcrypt" />
+    <SUITE FILE_PATH="coverage/PythonClass$diarymenu.coverage" NAME="diarymenu Coverage Results" MODIFIED="1740147828628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/diaryapp/src" />
+    <SUITE FILE_PATH="coverage/PythonClass$seven_segment.coverage" NAME="seven_segment Coverage Results" MODIFIED="1740755648520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sevensegment" />
+    <SUITE FILE_PATH="coverage/PythonClass$morningtask.coverage" NAME="morningtask Coverage Results" MODIFIED="1740703451622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/classWork" />
     <SUITE FILE_PATH="coverage/PythonClass$earlyMorning.coverage" NAME="earlyMorning Coverage Results" MODIFIED="1739353366499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/classWork" />
-    <SUITE FILE_PATH="coverage/PythonClass$.coverage" NAME=" Coverage Results" MODIFIED="1739724693872" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tests/bankapptests" />
+    <SUITE FILE_PATH="coverage/PythonClass$trial.coverage" NAME="trial Coverage Results" MODIFIED="1740704214290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/classWork/deeperlookstrings" />
+    <SUITE FILE_PATH="coverage/PythonClass$bankmenu.coverage" NAME="bankmenu Coverage Results" MODIFIED="1740649355549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bankapp" />
+    <SUITE FILE_PATH="coverage/PythonClass$.coverage" NAME=" Coverage Results" MODIFIED="1740702851974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tests" />
+    <SUITE FILE_PATH="coverage/PythonClass$tictactoe.coverage" NAME="tictactoe Coverage Results" MODIFIED="1740740928445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tictactoe/src" />
   </component>
 </project>
