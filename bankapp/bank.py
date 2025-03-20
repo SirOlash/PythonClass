@@ -13,6 +13,7 @@ class Bank:
             raise ValueError("Last name cannot be empty")
         if not pin or pin.isspace():
             raise ValueError("Pin cannot be empty")
+        # file.write(Account(first_name,last_name,pin,self.__account_number))
         self.accounts.append(Account(first_name,last_name,pin,self.__account_number))
         self.__account_number += 1
 

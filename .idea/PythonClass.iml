@@ -5,6 +5,10 @@
       <sourceFolder url="file://$MODULE_DIR$/Tests" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/diaryapp/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/tictactoe/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SCMS/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SCMS/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/movieratingsystem/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/movieratingsystem/test" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/.venv" />
       <excludeFolder url="file://$MODULE_DIR$/.venv1" />
       <excludeFolder url="file://$MODULE_DIR$/.venv3" />

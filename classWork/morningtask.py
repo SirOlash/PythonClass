@@ -48,11 +48,11 @@ def remove_special_character(string):
             new_string += char
     return new_string
 
-def dictionary_trial():
-    # dictionary = {}
-    # for char in string:
-    #     dictionary[char] = 1
-    #     return dictionary
+def dictionary_trial(string):
+    dictionary = {}
+    for char in string:
+        dictionary[char] = 1
+        return dictionary
 
     # return string1 + string2
     # grid = []
@@ -64,14 +64,19 @@ def dictionary_trial():
     #     grid.append(row)
     # return grid
 
-    return  [["Self.Empty" for _ in range(3)] for _ in range(4)]
+def esther_task(numbers):
+    new_array = []
+    for index in range(3):
+        temp_array = []
+        for index2 in range(1,-1,-1):
+            temp_array.append(numbers[index2][index])
+        new_array.append(temp_array)
+    return new_array
 
-    grid = []
-    for _ in range(4):
-        row = []
-        for _ in range(3):
-            row.append("deg")
-        grid.append(row)
+print(esther_task([[12,13,14],[15,16,17]]))
 
-print(dictionary_trial())
+
+
+
+# print(dictionary_trial())
 # print(dictionary_trial("hello","joyce"))

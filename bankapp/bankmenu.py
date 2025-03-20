@@ -158,7 +158,6 @@ class BankMenu:
         while True:
             user_input = input(prompt).strip()
             if re.fullmatch(r'^[A-Z][a-z]+',user_input):
-           # if not user_input.isalpha():
                 return user_input
 
             else:
